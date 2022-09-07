@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url("images/banderas.jpg");
+}
+
+.titulo{
+
+    margin-left: 30%;
+    font-size:50px;
+}
+
+main{
+    width: 1024px;
+    background:rgba(255, 255, 255, 0.75);
+    margin: 0 auto;
+}
+
+header{
+    padding: 20px;
+}
+
+#logo{
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 35px;
+}
+
+.historia{
+    width: 95%;
+    margin: 10px;
+    font-size: 40px;
+}
+
+.historia-content{
+
+    font-size: 20px;
+    margin: 10px;
+}
+
+
+.texto-lateral{
+    width: 59%;
+    float: left;
+    margin: 5px;
+    font-size: 20px;
+}
+
+.titulos{
+    width: 59%;
+    float: left;
+    margin: 5px;
+    font-size: 30px;
+}
+
+.nakamas{
+    width:39%;
+    float:left;
+    margin: 5px;
+}
+
+.clear{
+    clear: both;
+}
+
+nav{
+    width: 35%;
+    float: right;
+    margin-top: 15%;
+}
+
+nav ul{
+    
+}
+
+nav ul li{
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+nav ul li a{
+
+    text-decoration: none;
+    background: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+nav ul li a:hover{
+    background: red;
+
+}
+
+#luffy{
+    margin-top:30px;
+}
+#zoro{
+    margin-top:30px;
+}
+#nami{
+    margin-top:10px;
+}
+#sanji{
+    margin-top:5px;
+}
+#chopper{
+    margin-top:30px;
+}
+#robin{
+    margin-top:30px;
+}
